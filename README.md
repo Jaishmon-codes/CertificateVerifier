@@ -11,6 +11,12 @@ A blockchain-based certificate verification system that uses Ethereum smart cont
 
 ## 📖 Overview
 
-Certificate Verifier is a decentralized application designed to eliminate certificate fraud by storing and verifying certificate records on the Ethereum blockchain.
+## ✨ Features
 
-Instead of relying on manual verification processes, authorized institutions can register certificates on-chain, allowing anyone to instantly verify their authenticity through immutable blockchain records.
+* 🔐 Secure certificate registration using Ethereum smart contracts.
+* ✅ Instant verification of certificate authenticity.
+* 🛡️ Tamper-resistant blockchain storage.
+* 🌍 Transparent and decentralized verification process.
+* 📜 Immutable certificate records for long-term trust.
+* ⚡ Eliminates reliance on centralized verification systems.
+
