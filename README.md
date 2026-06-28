@@ -20,3 +20,12 @@ A blockchain-based certificate verification system that uses Ethereum smart cont
 * 📜 Immutable certificate records for long-term trust.
 * ⚡ Eliminates reliance on centralized verification systems.
 
+## 🛠️ Tech Stack
+
+| Category                    | Technology   | Purpose                                                 |
+| --------------------------- | ------------ | ------------------------------------------------------- |
+| **Smart Contract**          | Solidity     | Implements the certificate verification logic.          |
+| **Blockchain**              | Ethereum     | Stores immutable certificate records.                   |
+| **Development Environment** | Remix IDE    | Develops, compiles, tests, and deploys smart contracts. |
+| **Version Control**         | Git & GitHub | Tracks project history and source code.                 |
+
